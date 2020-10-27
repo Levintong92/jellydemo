@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jelly.com" resolutions="1x" timestamp="1603779439269">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jelly.com" resolutions="1x" timestamp="1603779574852">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4106204627" ref="index"/>
-    <file name="index.css" crc="3882412074" ref="index"/>
+    <file name="index.css" crc="3867340387" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-light.woff" crc="241814887"/>
@@ -77,5 +77,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="490743092" seo="true" mt="1603779431026" redirect="true"/>
+  <file name="index.html" crc="439949677" seo="true" mt="1603779557107" redirect="true"/>
 </manifest>
