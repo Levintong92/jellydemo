@@ -1,0 +1,81 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jelly.com" resolutions="1x" timestamp="1603778730531">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4106204627" ref="index"/>
+    <file name="index.css" crc="3832576308" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-light.woff" crc="241814887"/>
+    <file name="montserrat-light.eot" crc="133480952"/>
+    <file name="montserrat-medium.woff" crc="4190792266"/>
+    <file name="montserrat-medium.eot" crc="4198223768"/>
+    <file name="montserrat-bold.woff" crc="3962390889"/>
+    <file name="montserrat-bold.eot" crc="4292412071"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo astalift white - trắng-crop-u1292.png" crc="158814695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_5376.jpg" crc="56128408" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_5186-edit.jpg" crc="312779082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_5692-edit.jpg" crc="4022409727" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_5854.jpg" crc="4133707845" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-27 at 125559-crop-u1360.jpg" crc="257202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-27 at 125610.jpg" crc="11623183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_5643-edit.jpg" crc="4279183716" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_5216.jpg" crc="352056476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-27 at 110627.jpg" crc="22851011" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo astalift white - trắng.png" crc="4280954914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18764668-04.svg" crc="3776268019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18764668-04_poster_.png" crc="185939241" ref="index"/>
+    <file name="18764668-02.svg" crc="370035650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18764668-02_poster_.png" crc="3807827395" ref="index"/>
+    <file name="18764668-03.svg" crc="103271434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18764668-03_poster_.png" crc="4248204047" ref="index"/>
+    <file name="dsc08697.jpg" crc="3888869015" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc08716.jpg" crc="3936081742" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f85_8508-edit.jpg" crc="372266384" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="20357854" seo="true" mt="1603778729763" redirect="true"/>
+</manifest>
